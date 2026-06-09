@@ -1,6 +1,4 @@
-// User function Template for Java
-
-/*
+/* Structure of a link list node
 class Node{
     int data;
     Node next;
@@ -11,7 +9,6 @@ class Node{
     }
 }
 */
-
 class Solution {
     Node divide(Node head) {
         // code here
